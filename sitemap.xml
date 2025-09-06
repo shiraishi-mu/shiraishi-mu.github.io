@@ -1,3 +1,157 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>NoneCV/</loc>
+        <lastmod>2025-09-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneCV/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/CV/"/>
+    </url>
+    <url>
+        <loc>NoneLecture/</loc>
+        <lastmod>2025-09-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneLecture/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/Lecture/"/>
+    </url>
+    <url>
+        <loc>NoneMember/</loc>
+        <lastmod>2025-09-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneMember/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/Member/"/>
+    </url>
+    <url>
+        <loc>NoneMisc/</loc>
+        <lastmod>2025-09-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneMisc/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/Misc/"/>
+    </url>
+    <url>
+        <loc>NonePresentations/</loc>
+        <lastmod>2025-09-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NonePresentations/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/Presentations/"/>
+    </url>
+    <url>
+        <loc>NonePublications/</loc>
+        <lastmod>2025-09-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NonePublications/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/Publications/"/>
+    </url>
+    <url>
+        <loc>NoneResearch/</loc>
+        <lastmod>2025-09-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneResearch/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/Research/"/>
+    </url>
+    <url>
+        <loc>None./</loc>
+        <lastmod>2025-09-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="None"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/"/>
+    </url>
+    <url>
+        <loc>NoneProgramming_Tips/</loc>
+        <lastmod>2025-09-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneProgramming_Tips/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/Programming_Tips/"/>
+    </url>
+    <url>
+        <loc>NoneProgramming_Tips/julia/</loc>
+        <lastmod>2025-09-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneProgramming_Tips/julia/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/Programming_Tips/julia/"/>
+    </url>
+    <url>
+        <loc>NoneProgramming_Tips/python/</loc>
+        <lastmod>2025-09-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneProgramming_Tips/python/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/Programming_Tips/python/"/>
+    </url>
+    <url>
+        <loc>Noneja/CV/</loc>
+        <lastmod>2025-09-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/CV/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneCV/"/>
+    </url>
+    <url>
+        <loc>Noneja/Lecture/</loc>
+        <lastmod>2025-09-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/Lecture/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneLecture/"/>
+    </url>
+    <url>
+        <loc>Noneja/Member/</loc>
+        <lastmod>2025-09-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/Member/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneMember/"/>
+    </url>
+    <url>
+        <loc>Noneja/Misc/</loc>
+        <lastmod>2025-09-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/Misc/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneMisc/"/>
+    </url>
+    <url>
+        <loc>Noneja/Presentations/</loc>
+        <lastmod>2025-09-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/Presentations/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NonePresentations/"/>
+    </url>
+    <url>
+        <loc>Noneja/Publications/</loc>
+        <lastmod>2025-09-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/Publications/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NonePublications/"/>
+    </url>
+    <url>
+        <loc>Noneja/Research/</loc>
+        <lastmod>2025-09-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/Research/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneResearch/"/>
+    </url>
+    <url>
+        <loc>Noneja/</loc>
+        <lastmod>2025-09-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="None"/>
+    </url>
+    <url>
+        <loc>Noneja/Programming_Tips/</loc>
+        <lastmod>2025-09-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/Programming_Tips/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneProgramming_Tips/"/>
+    </url>
+    <url>
+        <loc>Noneja/Programming_Tips/julia/</loc>
+        <lastmod>2025-09-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/Programming_Tips/julia/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneProgramming_Tips/julia/"/>
+    </url>
+    <url>
+        <loc>Noneja/Programming_Tips/python/</loc>
+        <lastmod>2025-09-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/Programming_Tips/python/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneProgramming_Tips/python/"/>
+    </url>
 </urlset>
