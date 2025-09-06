@@ -15,18 +15,18 @@
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/Lecture/"/>
     </url>
     <url>
+        <loc>NoneLinks/</loc>
+        <lastmod>2025-09-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="NoneLinks/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/Links/"/>
+    </url>
+    <url>
         <loc>NoneMember/</loc>
         <lastmod>2025-09-06</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ja" href="NoneMember/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/Member/"/>
-    </url>
-    <url>
-        <loc>NoneMisc/</loc>
-        <lastmod>2025-09-06</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="ja" href="NoneMisc/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/Misc/"/>
     </url>
     <url>
         <loc>NonePresentations/</loc>
@@ -92,18 +92,18 @@
         <xhtml:link rel="alternate" hreflang="ja" href="NoneLecture/"/>
     </url>
     <url>
+        <loc>Noneen/Links/</loc>
+        <lastmod>2025-09-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/Links/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="NoneLinks/"/>
+    </url>
+    <url>
         <loc>Noneen/Member/</loc>
         <lastmod>2025-09-06</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/Member/"/>
         <xhtml:link rel="alternate" hreflang="ja" href="NoneMember/"/>
-    </url>
-    <url>
-        <loc>Noneen/Misc/</loc>
-        <lastmod>2025-09-06</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/Misc/"/>
-        <xhtml:link rel="alternate" hreflang="ja" href="NoneMisc/"/>
     </url>
     <url>
         <loc>Noneen/Presentations/</loc>
