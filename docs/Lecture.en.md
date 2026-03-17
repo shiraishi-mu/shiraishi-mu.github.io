@@ -7,7 +7,7 @@
 | Data Structures and Algorithms I | Department of Intelligent Systems, School of Information Systems, Hiroshima City University |
 | Mathematical Programming Methods | Department of Intelligent Systems, School of Information Systems, Hiroshima City University |
 | Machine Learning | Department of Intelligent Systems, School of Information Systems, Hiroshima City University |
-| Computational Intelligence | Graduate School of Information Systems, Hiroshima City University |
+| Advanced Computational Intelligence | Graduate School of Information Systems, Hiroshima City University |
 
 ## Previous lectures
 
