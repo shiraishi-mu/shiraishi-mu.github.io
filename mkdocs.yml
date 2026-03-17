@@ -1,0 +1,68 @@
+site_name: Swarm Intelligence System Lab., Hiroshima City University
+theme:
+  name: material
+  logo: img/icon2.png
+  favicon: img/icon2.png
+  icon:
+    alternate: material/web   # 好きなアイコン名に
+  palette:
+    scheme: default
+    primary: blue grey
+  features:
+    # - navigation.instant
+    - navigation.path
+    - navigation.indexes
+    - navigation.sections
+    - navigation.tabs
+    # - navigation.expand
+    - navigation.top
+    - toc.integrate
+nav:
+  - Home: index.md
+  - Member: Member.md
+  - Research:
+    - Research/index.md
+    - TaskAllocation: Research/TaskAllocation.md
+    - Collective & Individual Dynamics: Research/SPPmodel.md
+  - Publications: Publications.md
+  - Presentations: Presentations.md
+  - Lecture: Lecture.md
+  - Links: Links.md
+  - Programming_Tips: 
+    - Programming_Tips/index.md
+    - Python: Programming_Tips/python.md
+    - Julia: Programming_Tips/julia.md
+plugins:
+  - search
+  - i18n:
+      docs_structure: suffix
+      languages:
+        - locale: en
+          name: English
+          build: true
+        - locale: ja
+          name: 日本語
+          build: true
+          default: true
+          site_name: 広島市立大学大学院情報科学研究科　群知能システム研究室
+          nav_translations:
+            Home: ホーム
+            Member: メンバー
+            CV: CV
+            Research: 研究内容
+            TaskAllocation: 社会性昆虫における役割分担メカニズムの解明
+            Collective & Individual Dynamics: 自己駆動粒子系における集団運動と個体行動のダイナミクス集団・個体ダイナミクス
+            Publications: 論文
+            Presentations: 学会発表
+            Lecture: 講義
+            Links: リンク集
+            Programming_Tips: プログラミングTIPS
+markdown_extensions:
+    - mdx_truly_sane_lists:
+        nested_indent: 1
+    - markdown_katex:
+        no_inline_svg: True
+        insert_fonts_css: True
+        # macro-file: macros.tex
+extra_css:
+  - styles/alt-icon.css
