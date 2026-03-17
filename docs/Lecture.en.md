@@ -13,7 +13,7 @@
 
 | Year | Lecture Title | School |
 | -- | -- |  -- |
-| 2023 ~ 2024 | Physics Mathematics | Department of Mathematical Sciences Based on Modeling and Analysis, School of Interdisciplinary Mathematical Sciences, Meiji University |
+| 2023 ~ 2024 | Mathematics for Physics | Department of Mathematical Sciences Based on Modeling and Analysis, School of Interdisciplinary Mathematical Sciences, Meiji University |
 | 2020 ~ 2024 | Experiment Course of Mathematical Engineering 2 | Department of Mathematical Engineering, School of Engineering, Musashino University  |
 | 2023 | Programming Exercise 1 | Department of Mathematical Sciences Based on Modeling and Analysis, School of Interdisciplinary Mathematical Sciences, Meiji University |
 | 2017 ~ 2019 | Computational Mathematics Exercise | Department of Mathematics, School of Science, Hiroshima University |
