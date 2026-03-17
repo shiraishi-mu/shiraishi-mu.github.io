@@ -1,5 +1,5 @@
 {
-  "dependencies": {
+  "devDependencies": {
     "katex": "^0.16.38"
   }
 }
