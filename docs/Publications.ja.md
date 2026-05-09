@@ -4,6 +4,10 @@ The latest list is on [researchermap.jp](https://researchmap.jp/mshira)
 
 ## 論文（査読有）
 
+1. Emyo Fujioka, **Masashi Shiraishi**,  Tamao Hirao, Yui Onishi, Dai Fukui, Shizuko Hiryu, "Avoidance of simultaneous patch use in Japanese large-footed bats," bioRxiv, 2026
+
+   DOI: [10.64898/2026.02.09.704905](https://doi.org/10.64898/2026.02.09.704905)
+
 1. Hirotaka Goto, **Masashi Shiraishi**, Hiraku Nishimori, Joshua B Plotkin, "Dynamics of Social Balance with Ternary Interpersonal Relationships," Journal of Social Physics, 1(1), 1-16, 2025
 
    Link: [link](https://www.sciltp.com/journals/jsp/articles/2512002497)
