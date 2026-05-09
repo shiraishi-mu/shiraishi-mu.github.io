@@ -45,6 +45,7 @@ The latest list is on [researchermap.jp](https://researchmap.jp/mshira)
 1. **Masashi Shiraishi** and Yoji Aizawa, “Lyapunov Analysis of Collective Behaviors in Self-Propelled Particle Systems,” SICE Annual Conference 2014, pp. 866-871, Hokkaido, JAPAN, September 2014  
  
    [DOI: 10.1109/SICE.2014.6935230](https://doi.org/10.1109/SICE.2014.6935230)
+
 1. Hubert Shum, Taku Komura, **Masashi Shiraishi**, and Shuntaro Yamazaki, “Interaction Patches for Multi-Character Animation,” ACM Transactions on Graphics, 27(5), pp.114:1-114:8, December 2008
  
    [DOI: 10.1145/1457515.1409067](https://doi.org/10.1145/1457515.1409067)
