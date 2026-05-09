@@ -40,8 +40,6 @@ The latest list is on [researchermap.jp](https://researchmap.jp/mshira)
  
    [DOI:10.7566/JPSJ.84.054002](https://doi.org/10.7566/JPSJ.84.054002), pdf
 
-1. **Masashi Shiraishi** and Yoji Aizawa, “Collective Behaviors of Swarm Dynamics and Lyapunov Analysis”, 早稲田大学理工学術院総合研究所 (理工学研究所) 理工研報告特集号: special issue 11, 171-173，2015  
-
 1. **Masashi Shiraishi** and Yoji Aizawa, “Lyapunov Analysis of Collective Behaviors in Self-Propelled Particle Systems,” SICE Annual Conference 2014, pp. 866-871, Hokkaido, JAPAN, September 2014  
  
    [DOI: 10.1109/SICE.2014.6935230](https://doi.org/10.1109/SICE.2014.6935230)
@@ -69,3 +67,5 @@ The latest list is on [researchermap.jp](https://researchmap.jp/mshira)
     [DOI: 10.11540/bjsiam.30.2_37](https://doi.org/10.11540/bjsiam.30.2_37)
 
 1. 白石允梓，西森拓，「アリのフェロモン感受性のエラー活用モデル」，昆虫と自然（ニューサイエンス社）, Vol. 51, No. 11, pp39-41，2016年10月
+
+1. **Masashi Shiraishi** and Yoji Aizawa, “Collective Behaviors of Swarm Dynamics and Lyapunov Analysis”, 早稲田大学理工学術院総合研究所 (理工学研究所) 理工研報告特集号: special issue 11, 171-173，2015  

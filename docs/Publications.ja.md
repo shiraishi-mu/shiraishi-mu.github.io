@@ -40,17 +40,15 @@ The latest list is on [researchermap.jp](https://researchmap.jp/mshira)
  
    [DOI:10.7566/JPSJ.84.054002](https://doi.org/10.7566/JPSJ.84.054002), pdf
 
-1. **Masashi Shiraishi** and Yoji Aizawa, “Collective Behaviors of Swarm Dynamics and Lyapunov Analysis”, 早稲田大学理工学術院総合研究所 (理工学研究所) 理工研報告特集号: special issue 11, 171-173，2015  
-
-1. **Masashi Shiraishi** and Yoji Aizawa, “Lyapunov Analysis of Collective Behaviors in Self-Propelled Particle Systems,” SICE Annual Conference 2014, pp. 866-871, Hokkaido, JAPAN, September 2014  
+2. **Masashi Shiraishi** and Yoji Aizawa, “Lyapunov Analysis of Collective Behaviors in Self-Propelled Particle Systems,” SICE Annual Conference 2014, pp. 866-871, Hokkaido, JAPAN, September 2014  
  
    [DOI: 10.1109/SICE.2014.6935230](https://doi.org/10.1109/SICE.2014.6935230)
 
-1. Hubert Shum, Taku Komura, **Masashi Shiraishi**, and Shuntaro Yamazaki, “Interaction Patches for Multi-Character Animation,” ACM Transactions on Graphics, 27(5), pp.114:1-114:8, December 2008
+3. Hubert Shum, Taku Komura, **Masashi Shiraishi**, and Shuntaro Yamazaki, “Interaction Patches for Multi-Character Animation,” ACM Transactions on Graphics, 27(5), pp.114:1-114:8, December 2008
  
    [DOI: 10.1145/1457515.1409067](https://doi.org/10.1145/1457515.1409067)
 
-1. 杉崎 英嗣, 風間 祥介, 石川 貴仁, 白石 允梓, 西村 昌平, 森島 繁生: “モーションキャ プチャシステムを用いた頭髪アニメーション手法の提案”, 画像電子学会誌ビジュアルコンピューティング論文特集号, Vol. 36, No. 4, pp.398-406 (2007)
+4. 杉崎 英嗣, 風間 祥介, 石川 貴仁, 白石 允梓, 西村 昌平, 森島 繁生: “モーションキャ プチャシステムを用いた頭髪アニメーション手法の提案”, 画像電子学会誌ビジュアルコンピューティング論文特集号, Vol. 36, No. 4, pp.398-406 (2007)
    
    [DOI: 10.11371/iieej.36.398](https://doi.org/10.11371/iieej.36.398)
 
@@ -69,3 +67,5 @@ The latest list is on [researchermap.jp](https://researchmap.jp/mshira)
     [DOI: 10.11540/bjsiam.30.2_37](https://doi.org/10.11540/bjsiam.30.2_37)
 
 1. 白石允梓，西森拓，「アリのフェロモン感受性のエラー活用モデル」，昆虫と自然（ニューサイエンス社）, Vol. 51, No. 11, pp39-41，2016年10月
+
+1. **Masashi Shiraishi** and Yoji Aizawa, “Collective Behaviors of Swarm Dynamics and Lyapunov Analysis”, 早稲田大学理工学術院総合研究所 (理工学研究所) 理工研報告特集号: special issue 11, 171-173，2015  
