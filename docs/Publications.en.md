@@ -10,7 +10,7 @@ The latest list is on [researchermap.jp](https://researchmap.jp/mshira)
 
 2. Hirotaka Goto, **Masashi Shiraishi**, Hiraku Nishimori, Joshua B Plotkin, "Dynamics of Social Balance with Ternary Interpersonal Relationships," Journal of Social Physics, 1(1), 1-16, 2025
 
-   Link: [website](https://www.sciltp.com/journals/jsp/articles/2512002497)
+   DOI: [10.53941/jsp.2026.100001](https://doi.org/10.53941/jsp.2026.100001)
 
 3. Hirotaka Goto, **Masashi Shiraishi**, Hiraku Nishimori, "Onset of Intragroup Conflict in a Generalized Model of Social Balance," *Physical Review Letters*, 133, 127402, 2024
    
