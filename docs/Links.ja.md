@@ -28,10 +28,9 @@
   - [Conference on Complex Systems 2021(CCS2021)](https://ccs2021.univ-lyon1.fr/#HOME)
 - [AROB-ISBC-SWARM](https://isarob.org/symposium/)
 
-
 ## Bio-Tracking Systems
 
-- TRex ([paper ](https://elifesciences.org/articles/64000#content), [github](https://github.com/mooch443/trex), [docs](https://trex.run/docs/))
+- TRex ([paper](https://elifesciences.org/articles/64000#content), [github](https://github.com/mooch443/trex), [docs](https://trex.run/docs/))
 - [AnTracks](https://sites.google.com/view/antracks)
 - [BugTag](https://www.robiotec.com/bugtag)
 - BEEtag ([site](https://www.jamesdcrall.com/beetag), [github](https://github.com/jamescrall/BEEtag), [paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0136487))
@@ -40,12 +39,11 @@ Free non tag tracking system
 - [SK-Electronics Co., LTD.](http://www.sk-el.co.jp/)  
 We use [micro RFID tags](http://www.sk-el.co.jp/sales/rfid/experimentkit/index.html) in our research.
 
-
 ## Programming
 
 - [Python Japan (日本語)](https://www.python.jp/)
 - [Julia](https://julialang.org/)
 
-## Etc..
+## Etc
 
 - [MkDocs](https://www.mkdocs.org/)
