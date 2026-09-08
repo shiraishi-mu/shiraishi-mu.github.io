@@ -1,13 +1,13 @@
 # Lecture
 
 ## Current lectures
-| Lecture Title | School |
-| -- | -- |
-| Experiment Course of Intelligent Systems II | Department of Intelligent Systems, School of Information Systems, Hiroshima City University |
-| Data Structures and Algorithms I | Department of Intelligent Systems, School of Information Systems, Hiroshima City University |
-| Mathematical Programming Methods | Department of Intelligent Systems, School of Information Systems, Hiroshima City University |
-| Machine Learning | Department of Intelligent Systems, School of Information Systems, Hiroshima City University |
-| Advanced Computational Intelligence | Graduate School of Information Systems, Hiroshima City University |
+| Year | Lecture Title | School |
+| -- | -- | -- |
+| 2025 ~ | Experiment Course of Intelligent Systems II | Department of Intelligent Systems, School of Information Systems, Hiroshima City  University |
+| 2025 ~ | Data Structures and Algorithms I | Department of Intelligent Systems, School of Information Systems, Hiroshima City University |
+| 2025 ~ | Mathematical Programming Methods | Department of Intelligent Systems, School of Information Systems, Hiroshima City University |
+| 2025 ~ | Machine Learning | Department of Intelligent Systems, School of Information Systems, Hiroshima City University |
+| 2025 ~ | Advanced Computational Intelligence | Graduate School of Information Systems, Hiroshima City University |
 
 ## Previous lectures
 
