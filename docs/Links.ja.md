@@ -29,7 +29,6 @@
 - [AROB-ISBC-SWARM](https://isarob.org/symposium/)
 
 
-
 ## Bio-Tracking Systems
 
 - TRex ([paper ](https://elifesciences.org/articles/64000#content), [github](https://github.com/mooch443/trex), [docs](https://trex.run/docs/))
