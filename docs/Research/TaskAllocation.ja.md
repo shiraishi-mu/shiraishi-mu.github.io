@@ -7,8 +7,6 @@
 
 ### 集団採餌行動における不確実性の効用
 
-Ants have limited perceptional functions.
-
 ### 役割分担メカニズムにおける情報伝達構造の影響
 
 ### Individual Rhythms

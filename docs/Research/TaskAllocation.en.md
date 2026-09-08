@@ -1,10 +1,17 @@
 ## Task Allocation Mechanism of Ants
 
-### Individual Rhythms
+Social insects such as ants, bees, and termites divide tasks—such as nest maintenance, foraging, and larval care—through the exchange of information among individuals.
+Understanding the mechanisms behind this division of labor is crucial for elucidating the fundamental principles of collective behavior.
 
-### Effects of Uncertainty
+### Analysis of Task-Allocation Mechanisms Using Large-Scale Data
+
+### The Effects of Uncertainty in Collective Foraging Behavior
 
 Ants have limited perceptional functions.
+
+### The Impact of Structure of Interaction Network on the Mechanism of Role Allocation
+
+### Individual Rhythms
 
 ### Paper List
 

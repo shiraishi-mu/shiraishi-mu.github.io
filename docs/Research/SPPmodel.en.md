@@ -1,6 +1,8 @@
 ## Collective Dynamics of Self-Propelled Particle System
 
-Statistical Analysis on the collective behaviors of Self-Propelled Particles System
+In the study of swarms, understanding how individual behavior influences collective motion is crucial.
+The self-propelled particle (SPP) model is a framework in which complex collective behavior emerges from individuals moving according to simple rules.
+In this study, we used the SPP model to analyze the impact of individual behavior on the collective motion patterns of the group.
 
 ### Paper List
 
