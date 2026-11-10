@@ -4,7 +4,7 @@ The latest list is on [researchermap.jp](https://researchmap.jp/mshira)
 
 ## 論文（査読有）
 
-1. "Self-organized spectral adjustment in echolocation sounds within group-flying bats," Proceedings of the Royal Society B, 293(2080): 20260921, 2026
+1. Kazuma Hase, Tasuku Miyazaki, Seiya Oka, Noriyoshi Senoo, Hiraku Nishimori, **Masashi Shiraishi**, Ken Yoda, Kohta I. Kobayasi, Shizuko Hiryu, "Self-organized spectral adjustment in echolocation sounds within group-flying bats," Proceedings of the Royal Society B, 293(2080): 20260921, 2026
 
    DOI: [10.1098/rspb.2026.0921](https://doi.org/10.1098/rspb.2026.0921)
 
