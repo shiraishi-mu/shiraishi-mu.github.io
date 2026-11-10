@@ -4,9 +4,17 @@ The latest list is on [researchermap.jp](https://researchmap.jp/mshira)
 
 ## 論文（査読有）
 
+1. "Self-organized spectral adjustment in echolocation sounds within group-flying bats," Proceedings of the Royal Society B, 293(2080): 20260921, 2026
+
+   DOI: [10.1098/rspb.2026.0921](https://doi.org/10.1098/rspb.2026.0921)
+
 1. Emyo Fujioka, **Masashi Shiraishi**,  Tamao Hirao, Yui Onishi, Dai Fukui, Shizuko Hiryu, "Avoidance of simultaneous patch use in Japanese large-footed bats," PLOS ONE 21(6): e0343485, 2026
 
    DOI: [10.1371/journal.pone.0343485](https://doi.org/10.1371/journal.pone.0343485), [bioRxiv](https://doi.org/10.64898/2026.02.09.704905)
+
+1. Sofia Navarro Yabe, Kojiro Otoguro, Hirokazu Ninomiya, **Masashi Shiraishi**, and Hiraku Nishimori, "Sand Influx Effect on Barchan Steady-state Profile," Journal of Physical Society of Japan, 95(1), 094002, 2026
+
+   DOI: [10.7566/JPSJ.95.094002](https://doi.org/10.7566/JPSJ.95.094002)
 
 1. Hirotaka Goto, **Masashi Shiraishi**, Hiraku Nishimori, Joshua B Plotkin, "Dynamics of Social Balance with Ternary Interpersonal Relationships," Journal of Social Physics, 1(1), 1-16, 2025
 
