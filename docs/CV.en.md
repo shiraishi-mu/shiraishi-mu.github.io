@@ -58,18 +58,18 @@ C/C++, Python 3, Julia, MATLAB
 
 | Year | Course Title | Affiliation |
 |--|--|--|
-| 2025 ~ | Data Structures and Algorithms Ⅰ | 広島市立大学情報科学部 |
-| 2025 ~ | Mathematical Programming | 広島市立大学情報科学部知能工学科 |
-| 2025 ~ | Machine Learning | 広島市立大学情報科学部知能工学科 |
-| 2025 ~ | Experiments of Intelligent Systems II | 広島市立大学情報科学部知能工学科 |
-| 2025 ~ | Advanced Computational Intelligence | 広島市立大学大学院情報科学研究科 |
-| 2021 ~ 2024 | Mathematical Physics | 明治大学総合数理学部現象数理学科 |
-| 2020 ~ 2024 | 数理工学実験B | 武蔵野大学工学部数理工学科 |
-| 2017 ~ 2019 | 計算数学 | 広島大学理学部数学科 |
-| 2017 ~ 2019 | 計算数理A | 広島大学理学部数学科 |
+| 2025 ~ | Data Structures and Algorithms Ⅰ | Faculty of Information Sciences, Hiroshima City University |
+| 2025 ~ | Mathematical Programming | Department of Intelligent Systems, Faculty of Information Sciences, Hiroshima City University |
+| 2025 ~ | Machine Learning | Department of Intelligent Systems, Faculty of Information Sciences, Hiroshima City University |
+| 2025 ~ | Experiments of Intelligent Systems II | Department of Intelligent Systems, Faculty of Information Sciences, Hiroshima City University |
+| 2025 ~ | Advanced Computational Intelligence | Graduate Schoolf of Information Sciences, Hiroshima City University |
+| 2021 ~ 2024 | Mathematics for Physics | School of Interdisciplinary Mathematical Sciences, Meiji University |
+| 2020 ~ 2024 | Experiments of Mathematical Engineering B | Department of Mathematical Engineering, School of Engineering, Musashino University |
+| 2017 ~ 2019 | 計算数学 | Department of Mathematics, School of Science, Hiroshima University |
+| 2017 ~ 2019 | 計算数理A | Department of Mathematics, School of Science, Hiroshima University |
 | 2015 | Statistical Physics | International Course, Waseda University |
-| 2012 ~ 2014 | 理工学実験基礎2A/2B | 早稲田大学理工学術院 |
-| 2012 ~ 2014 | 応用物理学研究ゼミナール | 早稲田大学先進理工学部応用物理学科 |
+| 2012 ~ 2014 | Fundamental Experiments of Science and Engineering 2A/2B | Faculty of Science and Engineering, Waseda University |
+| 2012 ~ 2014 | Research Seminar of Applied Physics | Department of Applied Physics, School of Advanced Science and Engineering, Waseda University |
 
 ## Open Seminar
 
