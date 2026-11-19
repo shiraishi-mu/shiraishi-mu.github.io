@@ -65,8 +65,8 @@ C/C++, Python 3, Julia, MATLAB
 | 2025 ~ | Advanced Computational Intelligence | Graduate Schoolf of Information Sciences, Hiroshima City University |
 | 2021 ~ 2024 | Mathematics for Physics | School of Interdisciplinary Mathematical Sciences, Meiji University |
 | 2020 ~ 2024 | Experiments of Mathematical Engineering B | Department of Mathematical Engineering, School of Engineering, Musashino University |
-| 2017 ~ 2019 | 計算数学 | Department of Mathematics, School of Science, Hiroshima University |
-| 2017 ~ 2019 | 計算数理A | Department of Mathematics, School of Science, Hiroshima University |
+| 2017 ~ 2019 | Exercises in Mathematics for Computation | Department of Mathematics, School of Science, Hiroshima University |
+| 2017 ~ 2019 | Exercises in Mathematics for Computation A | Department of Mathematics, School of Science, Hiroshima University |
 | 2015 | Statistical Physics | International Course, Waseda University |
 | 2012 ~ 2014 | Fundamental Experiments of Science and Engineering 2A/2B | Faculty of Science and Engineering, Waseda University |
 | 2012 ~ 2014 | Research Seminar of Applied Physics | Department of Applied Physics, School of Advanced Science and Engineering, Waseda University |
