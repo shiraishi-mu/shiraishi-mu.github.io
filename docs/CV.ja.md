@@ -35,8 +35,9 @@ C/C++, Python 3, Julia, MATLAB
 
 | Year | | |
 |--|--|--|
+|2026.4 ~ 2030.3 | (分担者)生き物の社会に学ぶモノと知の流れの実験および理論的研究 |(Co-Investigator) Grant-in-Aid for Scientific Research (B) JSPS KAKENHI Grant #: 26K00677|
 |2022.4 ~ 2026.3 | 生物集団がもつ分業システムの個体間情報伝達ネットワーク構造役割の解明 |Grant-in-Aid for Early-Career Scientists JSPS KAKENHI Grant #: 22K17971|
-|2021.9 ~ 2026.3 | アリコロニーの全個体識別長時間計測と組織ダイナミクスの系統的解析 | (Co-Investigator)Grant-in-Aid for Transformative Research Areas (A) JSPS KAKENHI Grant #: 21H05297|
+|2021.9 ~ 2026.3 | (分担者)アリコロニーの全個体識別長時間計測と組織ダイナミクスの系統的解析 | (Co-Investigator)Grant-in-Aid for Transformative Research Areas (A) JSPS KAKENHI Grant #: 21H05297|
 |2020.4 ~ 2024.3 | (分担者)社会性昆虫に学ぶ柔軟で頑健な組織づくりと機能発現の実験的および理論的研究 | (Co-Investigator) Grant-in-Aid for Scientific Research (B) JSPS KAKENHI Grant #: 20H01871|
 |2020.4 ~ 2022.3 | 生物集団の社会的機能発現メカニズムの数理的・実験的解明 | 明治大学先端数理科学インスティテュート　共同利用・共同研究拠点「現象数理学研究拠点」|
 
